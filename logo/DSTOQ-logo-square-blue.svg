@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46.144 32.695">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #4a97fc;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #4a97fc;
+      }
+    </style>
+  </defs>
+  <g id="Logo" transform="translate(-139 -68)">
+    <path id="Stroke_1" data-name="Stroke 1" class="cls-1" d="M13.212,0H0" transform="translate(150.233 77.25)"/>
+    <path id="Stroke_2" data-name="Stroke 2" class="cls-1" d="M10.722,0H0" transform="translate(147.424 85.135)"/>
+    <path id="Stroke_3" data-name="Stroke 3" class="cls-1" d="M5.106,0H0" transform="translate(139 85.135)"/>
+    <path id="Stroke_5" data-name="Stroke 5" class="cls-1" d="M3.829,0H0" transform="translate(143.148 92.9)"/>
+    <path id="Stroke_6" data-name="Stroke 6" class="cls-1" d="M11.616,0H0" transform="translate(150.233 92.779)"/>
+    <path id="Stroke_6_Copy" data-name="Stroke 6 Copy" class="cls-1" d="M9.714.971H0" transform="translate(149.211 98.603)"/>
+    <path id="Stroke_7" data-name="Stroke 7" class="cls-1" d="M0,30.674l5.65.02A15.614,15.614,0,0,0,21.466,15.362,15.618,15.618,0,0,0,5.655,0H.128" transform="translate(162.678 69)"/>
+    <path id="Stroke_9" data-name="Stroke 9" class="cls-1" d="M9.19,0H0" transform="translate(150.105 69)"/>
+    <path id="Stroke_14" data-name="Stroke 14" class="cls-2" d="M3.766,1.79A1.838,1.838,0,0,1,1.883,3.58,1.838,1.838,0,0,1,0,1.79,1.838,1.838,0,0,1,1.883,0,1.838,1.838,0,0,1,3.766,1.79Z" transform="translate(161.316 83.466)"/>
+    <path id="Stroke_16" data-name="Stroke 16" class="cls-2" d="M3.063,1.455A1.494,1.494,0,0,1,1.533,2.91,1.5,1.5,0,0,1,0,1.455,1.5,1.5,0,0,1,1.533,0,1.494,1.494,0,0,1,3.063,1.455Z" transform="translate(144.616 75.794)"/>
+  </g>
+</svg>
