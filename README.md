@@ -1,6 +1,6 @@
-# Colors
 Hosting all the design and branding materials
- 
+
+# Colors
 
 Dodger Blue #4A95FE (RGB 74, 149, 254)
 
@@ -20,7 +20,7 @@ Light Blue #cee7fd https://www.colorhexa.com/cee7fd
 
 
 # font
-Rajdhani 
-download from https://fonts.google.com/specimen/Rajdhani
+
+Rajdhani https://fonts.google.com/specimen/Rajdhani
 
 
