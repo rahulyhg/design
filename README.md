@@ -2,6 +2,8 @@ Hosting all the design and branding materials
 
 # Colors
 
+https://github.com/Dstoq/design/blob/master/palette.png
+
 Dodger Blue <a href="https://www.colorhexa.com/4a95fc" target="_blank"> #4A95FC </a>  (RGB 74, 149, 252) 
 
 Electric Violet <a href="https://www.colorhexa.com/7E3BFF"> #7E3BFF </a> (RGB 126, 59, 255)
