@@ -2,7 +2,7 @@ Hosting all the design and branding materials
 
 # Colors
 
-Dodger Blue <a href="https://www.colorhexa.com/4a95fc" target="_blank" >#4A95FC</a>  (RGB 74, 149, 252) 
+Dodger Blue <a href="https://www.colorhexa.com/4a95fc" target="_blank">#4A95FC</a>  (RGB 74, 149, 252) 
 
 Electric Violet #7E3BFF (RGB 126, 59, 255)
 
