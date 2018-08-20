@@ -2,7 +2,7 @@ Hosting all the design and branding materials
 
 # Colors
 
-https://github.com/Dstoq/design/blob/master/palette.png
+https://raw.githubusercontent.com/Dstoq/design/master/palette.png
 
 Dodger Blue <a href="https://www.colorhexa.com/4a95fc" target="_blank"> #4A95FC </a>  (RGB 74, 149, 252) 
 
