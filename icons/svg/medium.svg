@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 31">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-medium);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-medium">
+      <rect width="32" height="31"/>
+    </clipPath>
+  </defs>
+  <g id="medium" class="cls-1">
+    <rect class="cls-3" width="32" height="31"/>
+    <path id="Path_2047" data-name="Path 2047" class="cls-2" d="M11.6,10.972l2-4.99L15.789.5h3.748V.831L17.994,2.594l-.11,10.142,1.654,1.543v.22H12.592v-.441l1.07-1.323V7.215" transform="translate(5.101 8.5)"/>
+    <path id="Path_2046" data-name="Path 2046" class="cls-2" d="M3,.5H8.071L12.7,10.531,11.047,14.5H10.5L3.551,1.492,3,.831Z" transform="translate(4.221 8.5)"/>
+    <path id="Path_2048" data-name="Path 2048" class="cls-2" d="M5.446,4.7v9.37H2.8v-.331L5,11.2" transform="translate(4.2 8.93)"/>
+  </g>
+</svg>
