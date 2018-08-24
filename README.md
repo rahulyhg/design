@@ -1,4 +1,8 @@
-Hosting all the design and branding materials
+Folder names should be self explanatory. 
+
+# font
+
+Rajdhani https://fonts.google.com/specimen/Rajdhani
 
 # Colors
 
@@ -19,8 +23,6 @@ Pale Sky Blue <a href="https://www.colorhexa.com/cee7fd"> #cee7fd </a> (RGB 206,
 
 
 
-# font
 
-Rajdhani https://fonts.google.com/specimen/Rajdhani
 
 
