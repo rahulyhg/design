@@ -12,6 +12,8 @@ Electric Violet <a href="https://www.colorhexa.com/7E3BFF"> #7E3BFF </a> (RGB 12
 
 Meteorite <a href="https://www.colorhexa.com/46237A"> #46237A </a> (RGB 70, 35, 122)
 
+Soft Red <a href="https://www.colorhexa.com/F16363"> #F16363 </a>
+
 Crimson <a href="https://www.colorhexa.com/D11149"> #D11149 </a> (RGB 209, 17, 73)
 
 Blue Ribbon <a href="https://www.colorhexa.com/003FFF"> #003FFF </a> (RGB 0, 63, 255)
